@@ -11,5 +11,9 @@
 			"Toolkit" : "src"
 		}
 	},
-	"license" : "MIT"
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "Alexander Sergeychik"
+		}
+	]
 }
